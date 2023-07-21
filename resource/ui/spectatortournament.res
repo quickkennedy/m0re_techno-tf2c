@@ -249,7 +249,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"labelText"								"#FreezePanel_Item"
-			"textAlignment"							"west"
+			"textAlignment"							"Left"
 			"font"									"m0refont11"
 		}
 
