@@ -100,4 +100,10 @@
 		"fieldName"									"PlayerStatusHealthImageBG"
 		"xpos"										"9999"
 	}
+	"PlayerStatusHealthValue" // tf2c bug!!!
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"PlayerStatusPlayerLevel"
+		"xpos"										"9999"
+	}
 }
